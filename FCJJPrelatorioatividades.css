@@ -1,0 +1,38 @@
+ 
+
+.teste-box {border: 1px;  margin: 10px; padding: 10px; }
+
+body {
+    padding: 10px ;  
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.imagem-flutuante {
+   float: right;  
+   width: 300px; 
+   margin-right: 20 px ;
+   margin-bottom: 20px;
+   margin-left: 20px;
+   margin-top: 20px;
+}
+
+.subtitulo { clear: both
+}
+.header {
+    background-color: yellow;
+    position: sticky;
+    position: -webkit-sticky;
+     border: solid 1px #000;
+    padding: 10px;
+    font-size: 20px;
+}
+.projetos-sociais {
+    position: relative
+    background-color: blue;
+}
+.eventos {
+    background-color: green;
+    position: absolute;
+    right: 10px;
+
+}
