@@ -3,13 +3,43 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+ 
 
-    <title>style.css</title>
-</head>
-<body>
-<style> h3 { color: red; font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;} </style>
-<style> h2{color: blue; } </style>
-<style> * { font-family:Arial, Helvetica, sans-serif ;} </style>
-<a link"stylesheet" href= "style.css" ></a>
+.teste-box {border: 1px;  margin: 10px; padding: 10px; }
+
+body {
+    padding: 10px ;  
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.imagem-flutuante {
+   float: left;  
+   width: 50px; 
+   margin-right: 10 px ;
+   margin-bottom: 10px;
+   margin-left: 10px;
+   margin-top: 20px;
+}
+
+.subtitulo { clear: both
+}
+.header {background-color: yellow;
+    position: sticky;
+    position: -webkit-sticky;
+    top: 0;
+    border: solid 1px #000;
+    padding: 10px;
+    font-size: 20px;
+
+}
 </body>
-<html>
+
+
+</nav>
+</form>
+    
+</address>
+</footer>    
+</body>
+
+</html>
