@@ -1,0 +1,38 @@
+body {
+
+        font-family: Arial, Helvetica, sans-serif;
+        margin: 0;
+}
+
+header {
+        background-color: rgb(63, 03, 63);
+        color: rgb(221, 200, 200);
+        padding: 20px;
+        text-align: center;
+        border-radius: 5px; 
+}
+
+main {
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+        gap: 20px;
+        padding: 20px;
+
+}
+
+.content { 
+        background-color:rgb(141, 141, 139);
+        padding: 20px;
+        border-radius: 5px;
+        color: rgb(15, 13, 13) ;
+}
+
+footer {
+        background-color: rgb(15, 13, 13);
+        color: #fff;
+        text-align: center;
+        padding: 4px;
+        position: fixed; bottom: 0;
+        width: 100%;
+}
+

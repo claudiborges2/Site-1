@@ -1,13 +1,22 @@
 .title { color: red; font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;}
-.h2 {color: blue; }
-        
- { font-family:Arial, Helvetica, sans-serif ;} 
+       
+ .text { font-family:Arial, Helvetica, sans-serif ;} 
 
-.teste-box {border: 1px;  margin: 10px; padding: 10px; }
+.reader { 
+    background-color: gray; 
+    color: #ccc;
+    padding: 20px;
+    text-align: center ;
+    position: -webkit-sticky;
+    border: solid 2px #141313;
+    padding: 10px;
+    font-size: 20px;
+}
 
 .body {
     padding: 10px ;  
     font-family: Arial, Helvetica, sans-serif;
+    
 }
 
 .imagem-flutuante {
@@ -21,20 +30,13 @@
 
 .subtitulo { clear: both
 }
-.header {
-    background-color: yellow;
-    position: sticky;
-    position: -webkit-sticky;
-    border: solid 1px #000;
-    padding: 10px;
-    font-size: 20px;
-}
+
 .relativos {
-    position: relative
-    background-color: blue;
+    position: relative;
+    background-color:aqua;
     height: 40px;
-    left: 30px;
-}
+    right: 30px;
+}      
 .absolutos {
     background-color: green;
     position: absolute;
@@ -115,7 +117,7 @@
 
 
 #box3 {  
-    background-color: yellow;]
+    background-color: yellow;
 
 }
 
