@@ -68,7 +68,9 @@ function efetuaOperação()
             resultado =  "operador inválido!"
         
     }
-{   document.getElementById("resultado").innerHTML = "Resultado: " + resultado;}
+{   
+    document.getElementById("resultado").innerHTML = "Resultado: " + resultado;
 
+}
 
 }

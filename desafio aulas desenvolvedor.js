@@ -17,7 +17,7 @@ function verificaAprovacao()
     function tradução()
     {
     let idioma = parseFloat(document.getElementById("idioma").value);
-
+    }
 
     switch (idioma)
     {
@@ -36,10 +36,13 @@ function verificaAprovacao()
             
 
     }
-}        
+}       
 
+const frutas = ["banana , uva ,abacaxi ,laranja, abacate"];
 
+console.log[ "frutas: ", frutas];
 
-            
+console.log[frutas [3]];
+frutas.push[banana]  ;    
+console.log [frutas] ;     
 
-          
