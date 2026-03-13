@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>FCJJP COM VOCÊ </title>
+</head>
+<body>
+     <style> h3 { color: red; font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;} </style>
+        <style> h2{color: blue; } </style>
+        
+<style> * { font-family:Arial, Helvetica, sans-serif ;} </style>
+    <header>
+ 
+<link rel= "stylesheet"  href= "FCJJPrelatorioatividades.css">
+
+
+<body>
+    <div  class="conteudo"> 
+    
+        <img class="imagem-flutuante" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnV_ojfuU1uMNubmUeYNLAkbNQVbKnDkLCoQ&s" >
+        <p class="texto">Where does it come from?
+Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of "de Finibus Bonorum et Malorum" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, "Lorem ipsum dolor sit amet..", comes from a line in section 1.10.32.</p>
+        <p class="texto">Where does it come from?
+Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of "de Finibus Bonorum et Malorum" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, "Lorem ipsum dolor sit amet..", comes from a line in section 1.10.32.</p>
+        <div class="subtitulo">teste lorem Ipsum</div>
+        <p class="texto">Where does it come from?
+Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of "de Finibus Bonorum et Malorum" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, "Lorem ipsum dolor sit amet..", comes from a line in section 1.10.32.</p>
+      </p>
+    </div>
+
+<header class="reader">texte de menu</header>
+  <br>
+        <div class="projetos-sociais"> Projetos Sociais
+            <p>paragrago 1.1</p>
+            <p>paragrafo 1.2</p>
+            <p>paragrafo1.3</p>
+        </div> 
+        <br>
+        <div class="eventos">Eventos</div>
+            <div>Campeonato Brasileiro de Jiu-jitsu Paradesportivo</div>
+        </div>
+        <div></div>
+
+
+<body>
+    <div class="Modalidades-esportivas">
+        <header class="reader">Modalidade</header><br><br>
+        <aside class="sidebar">Eventos anuais </aside>
+        <main class="content">Projetos relacionados </main>
+
+
+    </div>
+</body>
+
+
+
+</body>
+    
+
+<br> <br>
+
+    
+<h3>FCJJP</h3>
+ <li> <img src="https://fcjjp.org.br/favicon.webp" alt="IMG_1176.png.jpg"></li>
+ <BR> <BR>
+
+
+<h3 class="periodo">PERÍODO</h3>
+<nav> </nav>
+    <ul class="relatorio-anual">Relatório Anual</ul>
+        <div class="2019">2019</div>
+        <div class="2020">2020</div>
+        <div class="2021">2021</div>
+        <div class="2022">2022</div>
+        <div class="2023">2023</div>
+        <div class="2024">2024</div>
+        <div class="2025">2025</div>
+
+
+
+
+
+
+    </li>
+    <li>Camiseta Branca jiu</li>
+<ul>Canecas e garrafas</ul>
+<li>caneca 300 ml LOGO FCJJP</li>
+<li>caneca 200 ml LOGO FCJJP</li> 
+<li>Garrafa 500 ml LOGO FCJJP</li>
+
+

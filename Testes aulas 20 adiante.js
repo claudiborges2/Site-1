@@ -88,7 +88,49 @@ for(let carro of carro2)
     {
         dados += "<p>"+carros+"</p>";
 
-    })
-    criaSecao("lopp forEach", dados);
+    }
+    criaSecao("lopp forEach", dados)
 
+    function mostraSaudacao()
+    {
+        const nome = document.getElementById('nome').value; 
+        const hora = parseInt(getElementById('hora').value);
+        const mensagem = document.getElementById('mensagem');
+        mensagem.innerHTML = saudacaoPersonalizada(nome,hora);
+    }
+    function saudacaoPersonalizada(nome,hora)
+    {
+        if (hora < 12)
+           {
+             return "Bom dia, "+ nome + "!";
+           }
     
+        else if (hora > 12 && hora < 18 )
+           {
+             return "Boa tarde, "+ nome + "!";
+           }
+    
+        else if (hora > 18)
+           {
+             return "Boa noite, "+ nome + "!";
+           }
+        
+       else
+       {
+            return"";        
+       }
+    
+        
+    }      
+    
+   function setBackgroundColor(color)
+{
+    document.body.style.backgroundColor = color;
+}
+    Document.getElementById('redButton').addEventListener('click',function(){setBackgroundColor('red');});
+    Document.getElementById('greenButton').addEventListener('click',function(){setBackgroundColor('green');});
+    Document.getElementById('blueButton').addEventListener('click', function(){setBackgroundColor('blue');});
+
+    Document.getElementById('inputBox').addEventListener('keypress' , function (event){
+        alert("Tecla precionada:" + event.key)
+    });
