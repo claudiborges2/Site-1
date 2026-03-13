@@ -54,11 +54,11 @@ document.getElementById("proj-desc").innerText =
 document.getElementById("proj-tech").innerText =
 "Technologies used: HTML, CSS and JavaScript.";
 
-document.getElementById("contato").innerText =
-"Contact Me";
+document.getElementById("talk").innerText =
+"Talk to Me";
 
 document.getElementById("btn-wpp").innerText =
-"Contact me on WhatsApp";
+"Contact me in WhatsApp";
 
 document.getElementById("btn-email").innerText =
 "Send Email";
@@ -121,7 +121,7 @@ document.getElementById("proj-desc").innerText =
 document.getElementById("proj-tech").innerText =
 "Tecnologias utilizadas: HTML, CSS e JavaScript.";
 
-document.getElementById("contato").innerText =
+document.getElementById("talk").innerText =
 "Fale Comigo";
 
 document.getElementById("btn-wpp").innerText =
