@@ -4,7 +4,7 @@ frutas = ["maça", "banana", "laranja", "uva"]
 
 
 # 2. Usar lista
-print("\Desafio aula 7 DADOS - lista de frutas:")
+print("\ndesafio aula 7 DADOS - lista de frutas:")
 for fruta in frutas:
     print(fruta)
 
