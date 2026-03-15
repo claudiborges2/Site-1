@@ -7,9 +7,10 @@ body {
 header {
         background-color: rgb(63, 03, 63);
         color: rgb(221, 200, 200);
-        padding: 20px;
+        padding: 5px;
         text-align: center;
         border-radius: 5px; 
+        border-right: 20px;
 }
 
 .botoes-flutuantes{
@@ -18,7 +19,7 @@ header {
         bottom: 80px;
         display: flex;
         flex-direction: column;
-        gap: 10px;
+        gap: 20px;
         z-index: 999;
 }
 
@@ -27,9 +28,10 @@ header {
         color: white;
         border: none;
         padding: 10px;
-        border-radius: 6px;
+        border-radius: 10px;
         cursor: pointer;
-        font-size: 14px;
+        font-size: 12px;
+       
 }
 
 main {
@@ -37,14 +39,16 @@ main {
         grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
         gap: 20px;
         padding: 20px;
-
+       
 }
 
 .content { 
         background-color:rgb(141, 141, 139);
-        padding: 20px;
-        border-radius: 5px;
+        padding: 40px;
+        border-radius: 10px;
         color: rgb(15, 13, 13) ;
+       
+         
 }
 
 footer {

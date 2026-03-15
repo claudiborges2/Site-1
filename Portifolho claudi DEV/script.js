@@ -58,10 +58,10 @@ document.getElementById("talk").innerText =
 "Talk to Me";
 
 document.getElementById("btn-wpp").innerText =
-"Contact me in WhatsApp";
+"WhatsApp";
 
 document.getElementById("btn-email").innerText =
-"Send Email";
+"Email";
 }
 
 
@@ -125,10 +125,10 @@ document.getElementById("talk").innerText =
 "Fale Comigo";
 
 document.getElementById("btn-wpp").innerText =
-"Falar comigo no WhatsApp";
+"WhatsApp";
 
 document.getElementById("btn-email").innerText =
-"Enviar Email";
+"Email";
 }
 
 function mostrarMensagem(){
